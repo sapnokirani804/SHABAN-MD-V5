@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~sFYnAA5L#jXu4Qm72NOxJmdhSZEPqZ1-FGkbpT-d-DjZ3Hu9w1eA",
       "required": true,
       "value": ""
     },  
@@ -78,7 +78,7 @@
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "ITS ALISHABA",
       "required": false,
       "value": "Mʀ✰Sʜᴀʙᴀɴ"
 }, 
@@ -124,7 +124,7 @@
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "IT'S ALISHABA",
       "required": false,
       "value": "Mʀ✰Sʜᴀʙᴀɴ"
 }, 
@@ -152,7 +152,7 @@
     
     "AUTO_STATUS_REACT": {
       "description": "status auto like or react make it true or false.",
-      "required": false,
+      "required": true,
       "value": "true"
     }, 
     
@@ -182,13 +182,13 @@
 
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
-      "required": false,
+      "required": true,
       "value": "false"
     },
     
     "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
-      "required": false,
+      "required": true,
       "value": "true"
       
     }, 
