@@ -207,8 +207,7 @@
 
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
-      "required": false,
-      "value": "false"
+      "required": fatrue      "value": "false"
     }
 
 },
